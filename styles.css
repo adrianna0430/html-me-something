@@ -1,0 +1,114 @@
+body {
+    background-color:#ff3399;
+    text-align: center;
+    margin: 75px
+}
+
+header {
+    position: static;
+    text-align: center;
+    background-color:#e6c300;
+    border: solid #a0522d;
+    font-family: Georia;
+    color: #ff3399;
+    font-size: 20px  
+}
+
+p  {
+    margin:10px 10px
+    color: palegoldenrod;
+    text-align: center;  
+}
+
+h4 {
+    text-align: center;
+}
+
+h2 {
+    background-color: #a0522d;
+    border: 3px solid #e6c300;
+
+}
+
+.AM {
+    position: relative;
+    float: left;
+    margin: 45px;
+    padding: 0 50px;
+    width: 300px;
+    text-align: center;
+    color:palegoldenrod;
+    background-color: #a0522d;
+    border: 3px solid #e6c300;
+
+}
+
+.PM {
+    position: relative;
+    float: right;
+    margin: 45px 50px;
+    padding: 0 50px;
+    width: 300px;
+    text-align: center;
+    color:palegoldenrod;
+    background-color: #a0522d;
+    border: 3px solid #e6c300;
+}
+
+h1 {
+    text-align: center;
+    background-color:#e6c300;
+    color:#ff3399;
+    border: 3px solid #a0522d;
+    padding: 30px;
+    position: relative;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color:#e6c300;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+#typical-morning {
+    position: relative;
+    float: left;
+    margin: 0px 10px 20px 0;
+    padding: 0 ;
+    text-align: left;
+    color: palegoldenrod
+}
+
+#typical-night {
+    position: relative;
+    float: left;
+    margin: 0px 10px 20px 10px;
+    padding: 0 ;
+    text-align: left;
+
+}
+
+
+
+div.even, div.odd {
+    position: static;
+    display: inline-block;
+
+}
+
+footer {
+    text-align: left;
+    color: #a0522d
+}
